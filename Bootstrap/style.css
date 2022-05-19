@@ -1,0 +1,66 @@
+.carousel slide{
+    position: absolute;
+    left: 50%;
+}
+
+#carouselExampleSlidesOnly
+{
+    position: absolute;
+    
+    margin-left: 500px;
+}
+
+#Nav_Bar
+{
+    margin-top: 25px;
+    background-attachment: fixed;
+}
+#button{
+    background-color: orange;
+}
+#button:hover{
+    background-color: darkorange;
+}
+
+.form-control
+{
+    width: 200px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+#search
+{
+    height: 37px;
+    margin-top: 10px;
+}
+.logo{
+    width: 250px;
+}
+
+.flex_top
+{
+    display: flex;
+    
+}
+
+#heading
+{
+    margin-top: 70px;
+    margin-left: 200px;
+    font-family: PT Serif;
+    font-weight:bolder;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+#banner{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fblack-red-and-white-color-geometric-background-design-for-banner-business_1372549.html&psig=AOvVaw38KjX9jv9Gc3jJSYVd5yJc&ust=1649494440615000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiUteCLhPcCFQAAAAAdAAAAABAV);
+}
+* .logo #Nav_Bar{
+    background-color: blue;
+}
+
+#readmore{
+    text-align: center;
+    margin-left: 100px;
+}
